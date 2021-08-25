@@ -1,0 +1,14 @@
+{
+  "name": "redirector",
+  "version": "1.0.0",
+  "description": "Se encarga de redireccionar al lugar que quiero que deseo que todos tengan como referecia de mi",
+  "main": "index.js",
+  "author": "@jheremois",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
